@@ -1,0 +1,25 @@
+body {
+    background: #A79388;
+}
+h1 {
+    color: #5D4241;
+    background: #B3C4E8;
+    text-align: center;
+    font-size: 30px;
+    padding: 10px;
+}
+.galeria {
+    list-style: none;
+    text-align: center;
+    padding: 0;
+}
+.galeria li {
+    background: #D2C6FD;
+    color: #5D4241;
+    border: solid 2px #897EAA;
+    margin: 10px;
+    padding: 10px;
+}
+.galeria img {
+    width: 100px;
+}
